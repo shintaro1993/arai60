@@ -1,6 +1,12 @@
 # Arai60
 
-ソフトウェアエンジニアリング協会のコーディング練習会で取り組んだ新井60の学習記録です。
+2025年にソフトウェアエンジニアリング協会のコーディング練習会に参加した際の学習記録をまとめたリポジトリです。新井60を題材にアルゴリズムとデータ構造を学習し、実装やコードレビューの記録を Pull Request として残しています。
+
+### 参考資料
+
+- [一般社団法人 ソフトウェアエンジニアリング協会](https://www.swe.or.jp/)
+- [コーディング練習会参加マニュアル](https://docs.google.com/document/d/1bjbOSs-Ac0G_cjVzJ2Qd8URoU_0BNirZ8utS3CUAeLE/edit?tab=t.0#heading=h.y1cq1o8g4nbl)
+- [コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/)
 
 ## 内容
 
